@@ -35,6 +35,7 @@ MainWidget::MainWidget(QWidget *parent)
                 }
             );
     resize(400,400);
+    
 }
 
 void MainWidget::changeWin()
