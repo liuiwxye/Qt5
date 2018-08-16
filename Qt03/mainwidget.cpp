@@ -29,7 +29,7 @@ MainWidget::MainWidget(QWidget *parent)
 
 
     connect(b4,&QPushButton::released,
-            [&](){
+           [=](){  //传引用&会奔溃，原因可能是函数结束后，动态指针就释放了
                     //b4->setText("123");
                     qDebug()<<"hello";
                 }
