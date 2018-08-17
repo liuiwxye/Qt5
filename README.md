@@ -1,5 +1,6 @@
 # Qt5
-[[!open](https://img-blog.csdn.net/20170828211426599)]((https://github.com/pezy/CppPrimer/issues)
+
+[![GitHub issues](https://img.shields.io/github/issues/pezy/CppPrimer.svg)](https://github.com/pezy/CppPrimer/issues)
 
 <h>Qt01:[实现两个独立窗口](https://github.com/liuiwxye/Qt5/tree/master/Qt01)</h1>
 
