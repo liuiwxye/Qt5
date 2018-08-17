@@ -1,6 +1,5 @@
 # Qt5
 
-[![GitHub issues](https://isujin.com/wp-content/themes/Diaspora/timthumb/timthumb.php?src=https://isujin.com/wp-content/uploads/2018/03/wallhaven-630537.jpg)](https://github.com/pezy/CppPrimer/issues)
 
 <h>Qt01:[实现两个独立窗口](https://github.com/liuiwxye/Qt5/tree/master/Qt01)</h1>
 
@@ -9,3 +8,5 @@
 <h>Qt03:[Lambda表达式](https://github.com/liuiwxye/Qt5/tree/master/Qt03)</h1>
 
 <h>Qt04:[简单的界面](https://github.com/liuiwxye/Qt5/tree/master/Qt04)</h1>
+
+<h>Qt05:[一些对话框(模态、非模态、标准(about)、文件)](https://github.com/liuiwxye/Qt5/tree/master/Qt5)</h1>
