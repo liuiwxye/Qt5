@@ -9,6 +9,6 @@
 
 <h>Qt04:[简单的界面](https://github.com/liuiwxye/Qt5/tree/master/Qt04)</h1>
 
-<h>Qt05:[一些对话框(模态、非模态、标准(about)、文件)](https://github.com/liuiwxye/Qt5/tree/master/Qt5)</h1>
+<h>Qt05:[一些对话框(模态、非模态、标准(about)、文件)](https://github.com/liuiwxye/Qt5/tree/master/Qt05)</h1>
 
-<h>Qt6:[一些设计器](https://github.com/liuiwxye/Qt5/tree/master/Q6)</h1>
+<h>Qt06:[一些设计器](https://github.com/liuiwxye/Qt5/tree/master/Qt06)</h1>
