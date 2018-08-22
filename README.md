@@ -1,4 +1,4 @@
-# Qt5
+# Qt Creator
 
 [![Address][address-img]][address] [![Wiki][wiki-img]][wiki] [![Qt][qt-img]][qt]
 
