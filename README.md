@@ -27,11 +27,11 @@
 
 ### Qt04
 
-* [简单的界面](https://github.com/liuiwxye/Qt5/tree/master/Qt04
+* [简单的界面](https://github.com/liuiwxye/Qt5/tree/master/Qt04)
 
 ### Qt05
 
-* [一些对话框(模态、非模态、标准(about)、文件)](https://github.com/liuiwxye/Qt5/tree/master/Qt05
+* [一些对话框(模态、非模态、标准(about)、文件)](https://github.com/liuiwxye/Qt5/tree/master/Qt05)
 
 ### Qt06
 
