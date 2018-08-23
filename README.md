@@ -13,6 +13,8 @@
 [qt]: https://www.qt.io
 
 
+![Qt](https://cdn2.hubspot.net/hubfs/149513/Qt2017/qt_logo_with_text_green_rgb.png?t=1532498450722 "Qt")
+
 ### Qt01
   
 * [实现两个独立窗口](https://github.com/liuiwxye/Qt5/tree/master/Qt01)
