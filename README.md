@@ -12,7 +12,7 @@
 
 [qt]: https://www.qt.io
 
-<div align=center><img src="https://cdn2.hubspot.net/hubfs/149513/Qt2017/qt_logo_with_text_green_rgb.png?t=1532498450722"/></div>
+<div align=center><img src="https://cdn2.hubspot.net/hubfs/149513/Qt2017/qt_logo_with_text_green_rgb.png?t=1532498450722></div>
 
 
 ### Qt01
