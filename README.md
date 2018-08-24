@@ -1,6 +1,6 @@
 # Qt Creator
 
-[![Address][address-img]][address] [![Wiki][wiki-img]][wiki] [![Qt][qt-img]][qt]
+[![Address][address-img]][address] [![Wiki][wiki-img]][wiki] [![Qt][qt-img]][qt] [![mirror][mirror-img]][mirror]
 
 [address]:https://github.com/liuiwxye/Qt5
 [address-img]:https://img.shields.io/badge/view-address-yellow.svg
@@ -9,8 +9,10 @@
 [wiki]: https://en.wikipedia.org/wiki/Qt_(software)
 
 [qt-img]:https://img.shields.io/badge/Qt-qmake-green.svg
-
 [qt]: https://www.qt.io
+
+[mirror-img]:https://img.shields.io/badge/mirror-Soft-blue.svg
+[mirror]:https://mirrors.tuna.tsinghua.edu.cn/qt/
 
 <div align=center>
 <img src="https://cdn2.hubspot.net/hubfs/149513/Qt2017/qt_logo_with_text_green_rgb.png?t=1532498450722">
