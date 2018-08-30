@@ -47,3 +47,6 @@
 
 * [鼠标、窗口事件](https://github.com/liuiwxye/Qt5/tree/master/Qt07)
 
+### Qt08
+
+* [绘图](https://github.com/liuiwxye/Qt5/tree/master/Qt08)
