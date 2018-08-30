@@ -34,3 +34,4 @@ HEADERS += \
 
 FORMS += \
         mywidget.ui
+
