@@ -31,3 +31,4 @@ HEADERS += \
         mainwindow.h
 
 CONFIG += C++11
+
