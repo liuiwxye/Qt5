@@ -12,6 +12,11 @@ Widget::Widget(QWidget *parent) :
     ui(new Ui::Widget)
 {
     ui->setupUi(this);
+    this->setGeometry(100,100,500,400);
+    //去窗口边框
+    //this->setWindowFlags(Qt::FramelessWindowHint | windowFlags());
+    //隐藏背景
+    //this->setAttribute(Qt::WA_TranslucentBackground);
 
 }
 
@@ -68,4 +73,22 @@ void Widget::paintEvent(QPaintEvent *ev)
     pic.load("../picturesave.png");
     QPainter p1(this);
     p1.drawPicture(0,0,pic);
+}
+
+void Widget::mouseMoveEvent(QMouseEvent *ev)
+{
+    if(ev->buttons() & Qt::LeftArrow){
+        move(ev->globalPos()-point);
+    }
+}
+
+void Widget::mousePressEvent(QMouseEvent *ev)
+{
+    if(ev->button()==Qt::RightButton)
+    {
+        close();
+    }else if(ev->button()==Qt::LeftButton){
+        point=ev->globalPos()-this->frameGeometry().topLeft();
+       // qDebug()<<frameGeometry()<<geometry()<<x()<<y()<<pos()<<width()<<height()<<size()<<ev->globalPos();
+    }
 }
