@@ -58,3 +58,7 @@
 ### Qt10
 
 * [文件信息 获取文件内容到textEdit textEdit到文件](https://github.com/liuiwxye/Qt5/tree/master/Qt10)
+
+### Qt11
+
+* [二进制文件  文本文件](https://github.com/liuiwxye/Qt5/tree/master/Qt11)
