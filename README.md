@@ -54,3 +54,7 @@
 ### Qt09
 
 * [绘图设备](https://github.com/liuiwxye/Qt5/tree/master/Qt09)
+
+### Qt10
+
+* [文件信息 获取文件内容到textEdit textEdit到文件](https://github.com/liuiwxye/Qt5/tree/master/Qt10)
